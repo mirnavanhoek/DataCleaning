@@ -16,7 +16,8 @@
 * 'test/X\_test.txt': A fixed width file conaining the measurements of the test set
 * 'test/y\_test.txt': A file containing the test labels
 * 'test/subject\_test.txt': A file identifying for each row in the test set the subject who performed the activity.
-Note: the data files are not included in the repository, but can be downloaded: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+_Note: the data files are not included in the repository, but can be downloaded: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip_
 
 ## To create the tidy dataset as requested in the programming assignment of the "Getting and Cleaning Data" course:
 1. Make sure the data files are in the working directory and the two subdirectories train and test.
