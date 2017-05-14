@@ -4,7 +4,7 @@ WALKING\_UPSTAIRS, WALKING\_DOWNSTAIRS, SITTING, STANDING, LAYING) and each
 subject (1-30) of the following variables:
 
 col nr | variable name
-----------------------
+-------|--------------
 3      | "tBodyAcc-mean()-X"               
 4      | "tBodyAcc-mean()-Y"              
 5      | "tBodyAcc-mean()-Z"               
